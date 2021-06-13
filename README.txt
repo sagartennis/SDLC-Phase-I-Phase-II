@@ -60,3 +60,5 @@ A web application is divided into three main parts:
 Back End - Web Servers: What data will be stored and the logic of the application is written here. 
 Front End - UI Experience: The Users will interact with the app here. 
 DataBases - Where all information is stored.  
+
+### USE Case Diagram, Mock UI and Control Flow for the UPSTAC application is here###
