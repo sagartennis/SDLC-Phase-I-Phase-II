@@ -61,4 +61,4 @@ Back End - Web Servers: What data will be stored and the logic of the applicatio
 Front End - UI Experience: The Users will interact with the app here. 
 DataBases - Where all information is stored.  
 
-### USE Case Diagram, Mock UI and Control Flow for the UPSTAC application is here###
+ USE Case Diagram, Mock UI and Control Flow for the UPSTAC application is here
